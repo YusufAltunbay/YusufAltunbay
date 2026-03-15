@@ -20,7 +20,7 @@
 - 🎮 Pygame ile kendi **çiftlik simülasyonu oyunumu** geliştirdim.
 - 🌱 Veri Bilimi, Makine Öğrenmesi, Nesne Yönelimli Programlama (OOP) ve DevOps alanlarıyla yakından ilgileniyorum.
 - 🎯 **Arayış:** Becerilerimi pratiğe dökebileceğim ve yeni şeyler öğrenebileceğim bir **yaz stajı** arıyorum!
-- ⚡ **Eğlenceli Bilgi:** Boş zamanlarımda "My Summer Car" ve "My Winter Car" gibi oyunların mekaniklerinde ustalaşmayı severim.
+
 
 ---
 
