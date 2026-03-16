@@ -16,7 +16,7 @@
 
 ### 👨‍💻 Kısaca Ben
 
-- 🎓 **Pamukkale Üniversitesi'nde** 3. sınıf Bilgisayar Mühendisliği öğrencisiyim. 
+- 🎓 **Pamukkale Üniversitesi'nde** Bilgisayar Mühendisliği öğrencisiyim. 
 - 🎮 Pygame ile kendi **çiftlik simülasyonu oyunumu** geliştirdim.
 - 🌱 Veri Bilimi, Makine Öğrenmesi, Nesne Yönelimli Programlama (OOP) ve DevOps alanlarıyla yakından ilgileniyorum.
 - 🎯 **Arayış:** Becerilerimi pratiğe dökebileceğim ve yeni şeyler öğrenebileceğim bir **yaz stajı** arıyorum!
